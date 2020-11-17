@@ -1,4 +1,4 @@
-""" Работа с расходами — их добавление, удаление, статистики"""
+"""Работа с расходами — их добавление, удаление, статистики"""
 import datetime
 import re
 from typing import List, NamedTuple, Optional
